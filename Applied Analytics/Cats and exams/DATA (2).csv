@@ -1,0 +1,15 @@
+"Attributes (Columns):
+
+Age: Age of the patient (in years).
+Anaemia: Whether the patient has anemia (0 for no, 1 for yes).
+High Blood Pressure: Whether the patient has high blood pressure (0 for no, 1 for yes).
+Creatinine Phosphokinase (CPK): Level of CPK enzyme in the blood (measured in mcg/L).
+Diabetes: Whether the patient has diabetes (0 for no, 1 for yes).
+Ejection Fraction: Percentage of blood leaving the heart at each contraction.
+Platelets: Platelet count in the blood (measured in kiloplatelets/mL).
+Serum Creatinine: Level of serum creatinine in the blood (measured in mg/dL).
+Serum Sodium: Level of serum sodium in the blood (measured in mEq/L).
+Gender: Gender of the patient (0 for female, 1 for male).
+Smoking: Whether the patient smokes or not (0 for no, 1 for yes).
+Time: Follow-up period in days.
+Failure_Event: Outcome variable indicating whether the patient died during the follow-up period (0 for no, 1 for yes)."
